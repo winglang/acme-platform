@@ -1,0 +1,19 @@
+{
+  "name": "acme-platform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@winglibs/dynamodb": "^0.1.13",
+    "@winglibs/vite": "^0.2.1"
+  }
+}
