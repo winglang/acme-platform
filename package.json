@@ -14,6 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "@winglibs/dynamodb": "^0.1.13",
-    "@winglibs/vite": "^0.2.1"
+    "@winglibs/vite": "^0.2.1",
+    "@winglibs/websockets": "^0.3.8"
   }
 }
